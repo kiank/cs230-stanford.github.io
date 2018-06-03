@@ -2,7 +2,7 @@
 layout: post
 title:  "Hands-on session 3"
 description: "Introduction to Tensorflow"
-excerpt: "Graph, Session, Nodes and variable scope"
+excerpt: "Introduction to Tensorflow"
 author: "Kian Katanforoosh, Andrew Ng"
 date:   2018-06-02
 mathjax: true
