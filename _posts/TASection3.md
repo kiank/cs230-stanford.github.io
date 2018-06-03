@@ -12,13 +12,13 @@ github: https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensor
 module: Tutorials
 ---
 
-#CS230 Hands-on session 3: “Tensorflow Tutorial”
+# CS230 Hands-on session 3: “Tensorflow Tutorial”
 
 In this hands-on session, you will use two files:
-    - Tensorflow_tutorial.py (Part I)
-    - [CS230 project example code](https://github.com/cs230-stanford/cs230-code-examples) repository on github (Part II)
+- Tensorflow_tutorial.py (Part I)
+- [CS230 project example code](https://github.com/cs230-stanford/cs230-code-examples) repository on github (Part II)
 
-##Part I - Tensorflow Tutorial
+## Part I - Tensorflow Tutorial
 
 The goal of this part is to quickly build a tensorflow code implementing a Neural Network to classify hand digits from the MNIST dataset.
 
