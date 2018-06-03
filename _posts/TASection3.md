@@ -13,6 +13,7 @@ module: Tutorials
 ---
 
 # CS230 Hands-on session 3: “Tensorflow Tutorial”
+Kian Katanforoosh, Andrew Ng
 
 In this hands-on session, you will use two files:
 - Tensorflow_tutorial.py (Part I)
@@ -61,7 +62,7 @@ Run the code from your terminal using: *“python tensorflow_tutorial.py”*
 
 **Question 11:** Look at the outputs, accuracy and logs of your model. What improvements could be made? Take time at home to play with your code, and search for ideas online
 
-##Part II - Project Code Examples
+## Part II - Project Code Examples
 
 The goal of this part is to become more familiar with the [CS230 project example code](https://github.com/cs230-stanford/cs230-code-examples) that the
 teaching staff has provided. It’s meant to help you prototype ideas for your projects.
