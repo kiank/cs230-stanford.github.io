@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Hands-on session 3: Introduction to Tensorflow"
-description: "Graph, Session, Nodes and variable scope"
+title:  "Hands-on session 3"
+description: "Introduction to Tensorflow"
 excerpt: "Graph, Session, Nodes and variable scope"
-author: "Kian Katanforoosh, Cristian Bartolome"
+author: "Kian Katanforoosh, Andrew Ng"
 date:   2018-06-02
 mathjax: true
 published: true
@@ -11,9 +11,6 @@ tags: tensorflow
 github: https://github.com/cs230-stanford/cs230-code-examples/tree/master/tensorflow
 module: Tutorials
 ---
-
-# CS230 Hands-on session 3: “Tensorflow Tutorial”
-Kian Katanforoosh, Andrew Ng
 
 In this hands-on session, you will use two files:
 - Tensorflow_tutorial.py (Part I)
